@@ -1,10 +1,12 @@
 # DeskFlow — Enterprise IT Help Desk & Service Desk
 
-DeskFlow is a full-stack IT Service Management (ITSM) ticketing application built with React 19, TypeScript, Express, and Supabase PostgreSQL.
+DeskFlow is a full-stack IT help desk application designed to demonstrate how an organisation can manage internal IT support requests, track ticket progress, and coordinate support work across different user roles.
 
-Designed for enterprise corporate ICT and engineering teams, DeskFlow features server-enforced Role-Based Access Control (RBAC), bcrypt password hashing, cryptographically secure session management, and realistic IT service workflows.
+## Overview
 
----
+Organisations receive IT requests involving hardware, software, network access, printers, and user accounts. Without a central tracking system, requests can be difficult to prioritise, assign, and monitor.
+
+DeskFlow provides a central interface for submitting support tickets, managing their status, recording communication, and reviewing support activity.
 
 ## Features
 
