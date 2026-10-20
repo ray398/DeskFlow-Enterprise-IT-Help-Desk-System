@@ -8,6 +8,26 @@ Organisations receive IT requests involving hardware, software, network access, 
 
 DeskFlow provides a central interface for submitting support tickets, managing their status, recording communication, and reviewing support activity.
 
+## Application Screenshots
+
+### Quick Authentication
+![DeskFlow quick auth](screenshots/Quick_Auth.PNG)
+
+### Registration form
+![DeskFlow Registration](screenshots/Registration_form.PNG)
+
+### Dashboard
+![DeskFlow dashboard](screenshots/Dashboard.PNG)
+
+### Ticket submission
+![DeskFlow ticket submission](screenshots/ticket_submission.PNG)
+
+### My Ticket list
+![DeskFlow my ticket list](screenshots/my_requests.PNG)
+
+### Team performance
+![DeskFlow team performance](screenshots/Team_performance.PNG)
+
 ## Features
 
 - **Enterprise Role-Based Access Control (RBAC):**
